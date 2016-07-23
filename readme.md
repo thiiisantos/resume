@@ -21,6 +21,7 @@
 * Ruby / Ruby on Rails
 * MySQL
 * Scrum and Kanban
+* Angular, Meteor and React
 
 ## Work Experience
 
