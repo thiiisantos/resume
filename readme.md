@@ -19,7 +19,7 @@
 * Git
 * PHP (OO)
 * Ruby / Ruby on Rails
-* MySQL
+* MySQL, MongoDB and Firebase
 * Scrum and Kanban
 * Angular, Meteor and React
 
