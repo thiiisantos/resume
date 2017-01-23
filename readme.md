@@ -25,8 +25,10 @@
 
 ## Work Experience
 
-**Front/Backend Engineer** - lemonblue.com.br - September 2012 - Present
+**Front/Backend Engineer** - Nextel Brazil - September 2016 - Present
+>I worked in a internal CMS, my main focus was in Front-end development, using Javascript, CSS, HTML, Performance. In back-end we using PHP.
 
+**Front/Backend Engineer** - agência Lemonblue - September 2012 - August 2016
 >I worked in high scalable applications, my main focus was in Front-end development, using Javascript, Sass, CSS, HTML, Performance, SEO. In most projects were developed using PHP or Ruby, with version control using GIT.
 
 ## Education
